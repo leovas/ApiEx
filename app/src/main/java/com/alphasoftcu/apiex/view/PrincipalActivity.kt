@@ -8,7 +8,7 @@ import androidx.viewpager.widget.ViewPager
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
-import com.alphasoftcu.apiex.view.ui.main.SectionsPagerAdapter
+import com.alphasoftcu.apiex.view.fragment.SectionsPagerAdapter
 import com.alphasoftcu.apiex.databinding.ActivityPrincipalBinding
 
 class PrincipalActivity : AppCompatActivity() {
@@ -26,11 +26,5 @@ class PrincipalActivity : AppCompatActivity() {
         viewPager.adapter = sectionsPagerAdapter
         val tabs: TabLayout = binding.tabs
         tabs.setupWithViewPager(viewPager)
-//        val fab: FloatingActionButton = binding.fab
-
-//        fab.setOnClickListener { view ->
-//            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-//                .setAction("Action", null).show()
-//        }
     }
 }

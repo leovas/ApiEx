@@ -1,4 +1,4 @@
-package com.alphasoftcu.apiex.view.ui.main
+package com.alphasoftcu.apiex.view.fragment
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
