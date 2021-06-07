@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Example Api-Contacts</string>
+    <string name="post_activity_title">Posts</string>
+    <string name="post_details_activity_title">Post Details</string>
+    <string name="post_details_comments_label">Comments</string>
+    <string name="title_activity_principal">Example Api Contact</string>
+    <string name="tab_name_posts">Posts</string>
+    <string name="tab_name_contacts">Contacts</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_item_menu_view">View</string>
+    <string name="contact_item_menu_edit">Edit</string>
+    <string name="contact_item_menu_delete">Delete</string>
+    <string name="contacts_button_allow_permission">Allow access to Contacts!!</string>
+    <string name="permission_request_message">It\'s needed access to Contacts in your device for functions in the App.\n Would you allow access?</string>
+    <string name="contact_delete_message">Did you want eliminate contact for</string>
+</resources>
